@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8dcc478-590f-4cb9-8e78-8c718dfe6efe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VpmZjH3EonJt8eZE7sTikcsrQZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8dcc478-590f-4cb9-8e78-8c718dfe6efe" name="Default Changelist" comment="" />
+      <created>1577958467864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577958467864</updated>
+      <workItem from="1577958469414" duration="117000" />
+      <workItem from="1577958769504" duration="55000" />
+      <workItem from="1577958846521" duration="584000" />
+      <workItem from="1577959972512" duration="12317000" />
+      <workItem from="1577977897559" duration="730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="92" key="#Intentions" timestamp="1577960969305">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="320" y="92" key="#Intentions/0.23.1440.808@0.23.1440.808" timestamp="1577960969305" />
+    <state x="445" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577958485009">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="445" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1577958485009" />
+    <state x="377" y="250" key="NewPhpClassDialog" timestamp="1577973171596">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="377" y="250" key="NewPhpClassDialog/0.23.1440.808@0.23.1440.808" timestamp="1577973171596" />
+    <state x="541" y="357" key="NewPhpFileDialog" timestamp="1577961445922">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="541" y="357" key="NewPhpFileDialog/0.23.1440.808@0.23.1440.808" timestamp="1577961445921" />
+    <state x="100" y="123" width="1240" height="608" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577970730399">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="100" y="123" width="1240" height="608" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.808@0.23.1440.808" timestamp="1577970730399" />
+    <state x="399" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1577958776413">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="399" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1577958776413" />
+    <state x="385" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1577964099718">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="385" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1577964099718" />
+  </component>
+</project>

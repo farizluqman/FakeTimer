@@ -1,0 +1,28 @@
+.FakeTimer {
+    display: table;
+    text-align: center;
+    padding: 0 5%;
+    margin: 0 auto;
+}
+
+.FakeTimer .FakeTimerRow {
+    display: table-row;
+}
+
+.FakeTimer .FakeTimerCol {
+    display: table-cell;
+}
+
+.FakeTimerCol.Text {
+    width: 28%;
+}
+
+.FakeTimerCol.FakeTimerH, .FakeTimerCol.FakeTimerM, .FakeTimerCol.FakeTimerS {
+    width: 28%;
+    font-size: 300%;
+}
+
+.FakeTimerCol.colon.upper {
+    font-size: 200%;
+    vertical-align: middle;
+}
